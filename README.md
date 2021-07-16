@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jackmillichamp
-- 👀 I’m interested in all things AI, particularly neuroscience inspired developments
+- 👀 I’m interested in all things AI, particularly neuroscience-inspired developments
 - ✨ Feel free to take a look at my projects!
 
 <!---
