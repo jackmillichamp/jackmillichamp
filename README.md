@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jackmillichamp
 - 👀 I’m interested in all things AI, particularly neuroscience-inspired developments & physics-based projects
-- ✨ Feel free to take a look at my projects!
+- ✨ Feel free to take a look!
 
 <!---
 jackmillichamp/jackmillichamp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
